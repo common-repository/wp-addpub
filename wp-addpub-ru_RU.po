@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-addpub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-21 11:52+0100\n"
+"PO-Revision-Date: 2008-11-21 11:53+0100\n"
+"Last-Translator: jeltoesolnce <vladimir@shumbely.com>\n"
+"Language-Team:"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList:"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\wordpress\\wp-content\\plugins\\wp-addpub\n"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:72
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:72
+msgid "Error : one ID is required"
+msgstr "Ошибка: требуется один ID"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:184
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:257
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:184
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:257
+msgid "Title is required."
+msgstr "Нужно указать заголовок"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:185
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:258
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:185
+msgid "File is required."
+msgstr "Нужно указать файл"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:194
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:269
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:194
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:266
+msgid "Invalid File Format."
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:194
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:269
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:194
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:266
+msgid "(Only the following format are accepted : jpg, jpeg, jpe, gif, png, swf)"
+msgstr "(Допустимы следующие форматы файлов: jpg, jpeg, jpe, gif, png, swf)"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:239
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:241
+msgid "Banner was added successfully."
+msgstr "Баннер был успешно добавлен"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:344
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:340
+msgid "Banner was modified successfully."
+msgstr "Баннер изменён"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:355
+#, php-format
+msgid "Version <strong>%s</strong> is available on the <a href='%s'>plugin's site</a>"
+msgstr "Версия <strong>%s</strong> уже доступна на <a href='%s'>сайте плагина</a>."
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:358
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:344
+msgid "Banners management"
+msgstr "Баннер-менежетмент"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:359
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:447
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:451
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:345
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:432
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:436
+msgid "Add a banner"
+msgstr "Добавить баннер"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:364
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:350
+msgid "Banner was deleted."
+msgstr "Баннер удалён"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:367
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:353
+msgid "Banner was activated."
+msgstr "Баннер активирован"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:370
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:356
+msgid "Banner was deactivated."
+msgstr "Баннер деактивирован"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:381
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:367
+msgid "Title"
+msgstr "Заголовок"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:382
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:473
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:368
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:458
+msgid "Zone"
+msgstr "Зона"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:383
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:477
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:369
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:462
+msgid "Filter"
+msgstr "Фильтр"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:384
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:469
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:370
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:454
+msgid "Link"
+msgstr "Ссылка"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:385
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:490
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:371
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:475
+msgid "Type"
+msgstr "Тип"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:386
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:372
+msgid "Width"
+msgstr "Ширина"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:387
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:373
+msgid "Height"
+msgstr "Высота"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:388
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:374
+msgid "Action"
+msgstr "Действие"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:416
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:402
+msgid "View in new window"
+msgstr "Открыть в новом окне"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:416
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:402
+msgid "View"
+msgstr "Просмотр"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:418
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:510
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:404
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:495
+msgid "Edit"
+msgstr "Правка"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:419
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:405
+msgid "Desactivate"
+msgstr "Деактивация"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:419
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:405
+msgid "Activate"
+msgstr "Активация"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:420
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:406
+msgid "Are you sure ?"
+msgstr "Вы точно этого хотите?"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:420
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:406
+msgid "Delete"
+msgstr "Удалить"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:425
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:411
+msgid "No banners found"
+msgstr "Баннеры отсутствуют"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:447
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:432
+msgid "Edit a banner"
+msgstr "Править баннер"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:462
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:447
+msgid "Title (required)"
+msgstr "Заголовок (обязателен)"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:481
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:466
+msgid "Target (required)"
+msgstr "Направление (Target - обязательно)"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:492
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:477
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:493
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:478
+msgid "HTML"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:497
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:482
+msgid "Upload file (required)"
+msgstr "Загрузить файл (обязательно)"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:498
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:483
+msgid "Leave blank, if you don't want to change the file :"
+msgstr "Оставьте поле пустым, если загруженный файл Вас устраивает"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:498
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:483
+msgid "(Only the following format are accepted : jpg, jpeg, gif, png, swf)"
+msgstr "(Допустимы только следующие форматы: jpg, jpeg, gif, png, swf)"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:501
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:486
+msgid "HTML Code (required)"
+msgstr "HTML-Код (обязателен)"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:505
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:490
+msgid "Active"
+msgstr "Активно"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub.php:510
+#: D:\wamp\www\wordpress\wp-content\plugins\wp-addpub/wp-addpub2.php:495
+msgid "Add"
+msgstr "Добавить"
+
